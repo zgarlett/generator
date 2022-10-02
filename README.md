@@ -1,9 +1,16 @@
-Minimal example of a [yeoman](https://yeoman.io/) generator written in typescript.
-It is intended to be used as a template for new generators.
-
-See https://github.com/yeoman/yeoman/issues/1734 for some background.
+```
+ ********** ********  ********
+/////**/// /**/////  **////// 
+    /**    /**      /**       
+    /**    /******* /*********
+    /**    /**////  ////////**
+    /**    /**             /**
+    /**    /**       ******** 
+    //     //       ////////  
+```
 
 **Getting started** 
+
 ```bash
 npm install -g yo
 git clone https://github.com/gliviu/generator-typescript-template
